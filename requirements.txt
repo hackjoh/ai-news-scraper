@@ -1,0 +1,5 @@
+這是我在製作ai news reports所用的套件
+
+requests
+beautifulsoup4
+pandas
